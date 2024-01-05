@@ -1,4 +1,3 @@
-{
 "students": [  
     {"id":1, "Name":"Arun Pratap", "Roll-No":"01ST01", "Age":"21", "Gender":"Male", "Course":"Full Stack Developer", "Course-Duration":"6 Months", "Fees":"30000", "Status":"Paid", "Date-of-joining":"23/06/2022"},
     {"id":2, "Name":"Samantha Lee", "Roll-No":"02ST01", "Age":"31", "Gender":"Female", "Course":"French B2 Training", "Course-Duration":"6 Months", "Fees":"20000", "Status":"Paid", "Date-of-joining":"02/02/2023"},
@@ -10,5 +9,5 @@
     {"id":8, "Name":"Olivia Davis", "Roll-No":"08ST01", "Age":"27", "Gender":"Female", "Course":"French A1 Training", "Course-Duration":"3 Months", "Fees":"8000", "Status":"Paid", "Date-of-joining":"08/08/2022"},
     {"id":9, "Name":"William Brown", "Roll-No":"09ST01", "Age":"21", "Gender":"Male", "Course":"German B1 Training", "Course-Duration":"5 Months", "Fees":"15000", "Status":"Not-Paid", "Date-of-joining":"09/09/2023"},
     {"id":10, "Name":"Sophia Kim", "Roll-No":"10ST01", "Age":"18", "Gender":"Female", "Course":"Mandarin HSK1 Training", "Course-Duration":"2 Months", "Fees":"5000", "Status":"Paid", "Date-of-joining":"10/10/2022"}
-  ]
-}
+]
+
