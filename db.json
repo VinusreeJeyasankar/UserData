@@ -1,4 +1,5 @@
-{
+{    
+    "users": [{"email":"vinusree.j@arkinfotec.com","firstName":"Vinusree","lastName":"Jeyasankar","userName":"Vinusree","password":"vinu@123","verifyPassword":"vinu@123","isLoggedIn":false,"toastMessage":""},{"email":"rohit.b@gmail.com","firstName":"Rohit","lastName":"Balaje","userName":"Rohit","password":"ro@123","verifyPassword":"ro@123","isLoggedIn":false,"toastMessage":""},{"email":"sanjay.p@gmail.com","firstName":"Sanjay","lastName":"Praneeth","userName":"Sanjay","password":"san@123","verifyPassword":"san@123","isLoggedIn":false,"toastMessage":""},{"email":"guest3@tcfood.in","firstName":"Veenaiyk","lastName":"Manol","userName":"Veenai","password":"vee@123","verifyPassword":"vee@123","isLoggedIn":false,"toastMessage":""},{"email":"sainaren.p@gmail.com","firstName":"Sainaren","lastName":"Praneeth","userName":"Sainaren","password":"sa@123","verifyPassword":"sa@123","isLoggedIn":false,"toastMessage":""}],
     "login": [],
     "signup": []
 }
