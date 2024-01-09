@@ -7,5 +7,52 @@
         {"email":"sainaren.p@gmail.com","firstName":"Sainaren","lastName":"Praneeth","userName":"Sainaren","password":"sa@123","verifyPassword":"sa@123","isLoggedIn":false,"toastMessage":""}
     ],
     "login": [],
-    "signup": []
+    "signup": [],
+    "Countries": [
+      {
+        "country": "India",
+        "c_states": [
+          {
+            "state_name": "Tamilnadu",
+            "c_districts": [
+              {
+                "district": "Coimbatore",
+                "c_cities": [
+                  { "city": "Annur" },
+                  { "city": "Pollachi" },
+                  { "city": "Saravanampatti" },
+                  { "city": "Ganapathy" }
+                ]
+              },
+              {
+                "district": "Chennai",
+                "c_cities": [
+                  { "city": "Adayar" },
+                  { "city": "Chepauk" },
+                  { "city": "Egmore" },
+                  { "city": "MGR-Nagar" }
+                ]
+              },
+              {
+                "district": "Madurai",
+                "c_cities": [
+                  { "city": "Thirumangalam" },
+                  { "city": "Peraiyur" },
+                  { "city": "Usilampatti" },
+                  { "city": "Kumaram" }
+                ]
+              },
+              {
+                "district": "Trichy",
+                "c_cities": [
+                  { "city": "Thillai Nagar" },
+                  { "city": "Cantonment" },
+                  { "city": "Srirangam" }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ],
 }
