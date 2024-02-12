@@ -10,5 +10,55 @@
     {"id":8, "Name":"Olivia Davis", "Roll-No":"08ST01", "Age":"27", "Gender":"Female", "Course":"French A1 Training", "Course-Duration":"3 Months", "Fees":"8000", "Status":"Paid", "Date-of-joining":"08/08/2022"},
     {"id":9, "Name":"William Brown", "Roll-No":"09ST01", "Age":"21", "Gender":"Male", "Course":"German B1 Training", "Course-Duration":"5 Months", "Fees":"15000", "Status":"Not-Paid", "Date-of-joining":"09/09/2023"},
     {"id":10, "Name":"Sophia Kim", "Roll-No":"10ST01", "Age":"18", "Gender":"Female", "Course":"Mandarin HSK1 Training", "Course-Duration":"2 Months", "Fees":"5000", "Status":"Paid", "Date-of-joining":"10/10/2022"},
+    {
+      "email": "vinusree.j@arkinfotec.com",
+      "firstName": "Vinusree",
+      "lastName": "Jeyasankar",
+      "userName": "Vinusree",
+      "password": "vinu@123",
+      "verifyPassword": "vinu@123",
+      "isLoggedIn": false,
+      "toastMessage": ""
+    },
+    {
+      "email": "rohit.b@gmail.com",
+      "firstName": "Rohit",
+      "lastName": "Balaje",
+      "userName": "Rohit",
+      "password": "ro@123",
+      "verifyPassword": "ro@123",
+      "isLoggedIn": false,
+      "toastMessage": ""
+    },
+    {
+      "email": "sanjay.p@gmail.com",
+      "firstName": "Sanjay",
+      "lastName": "Praneeth",
+      "userName": "Sanjay",
+      "password": "san@123",
+      "verifyPassword": "san@123",
+      "isLoggedIn": false,
+      "toastMessage": ""
+    },
+    {
+      "email": "guest3@tcfood.in",
+      "firstName": "Veenaiyk",
+      "lastName": "Manol",
+      "userName": "Veenai",
+      "password": "vee@123",
+      "verifyPassword": "vee@123",
+      "isLoggedIn": false,
+      "toastMessage": ""
+    },
+    {
+      "email": "sainaren.p@gmail.com",
+      "firstName": "Sainaren",
+      "lastName": "Praneeth",
+      "userName": "Sainaren",
+      "password": "sa@123",
+      "verifyPassword": "sa@123",
+      "isLoggedIn": false,
+      "toastMessage": ""
+    },
   ]
 }
